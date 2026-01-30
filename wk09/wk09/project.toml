@@ -1,0 +1,5 @@
+[project]
+name = "oop682-wk09"
+version = "0.1.0"
+description = "Learning OOP Week 09"
+authors = [{ name = "อัษฎาวุธ พันธ์สาลี" }]
